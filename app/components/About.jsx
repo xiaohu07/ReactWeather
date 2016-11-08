@@ -5,7 +5,7 @@ var About = (props) => {
   return (
     <div className="">
       <div className="">
-        <h1 className="text-center">About</h1>
+        <h1 className="text-center page-title">About</h1>
         <p>Welcome to Heroku</p>
         <Link to="https://github.com/xiaohu07"><span className="success badge">1</span> Github </Link>
         <br/>
